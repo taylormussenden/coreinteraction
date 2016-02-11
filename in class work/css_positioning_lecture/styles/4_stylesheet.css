@@ -1,0 +1,13 @@
+* {
+  border: 1px dashed black;
+}
+
+div {
+  height: 50px;
+  width: 100px;
+  border: 50px solid pink;
+  border-radius: 5px;
+  background-color: #308014;
+  margin: 200px;
+  display: inline-block;
+}
